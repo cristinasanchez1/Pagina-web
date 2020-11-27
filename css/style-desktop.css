@@ -11,6 +11,7 @@
 	#header
 	{
 		position: relative;
+		background-color: darkolivegreen
 	}
 
 		#header .container
@@ -80,7 +81,7 @@
 
 			#nav li.active a
 			{
-				background: #56c9d6;
+				background: #f0f2f25e;
 				border-radius: 5px;
 				color: #FFF;
 			}
