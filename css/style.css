@@ -297,13 +297,13 @@
 	{
 		position: relative;
 		padding: 6em 0em;
-		background: #372019;
-		color: #8c5240;
+		background: darkolivegreen;
+		color: white;
 	}
 	
 	#marketing header h2
 	{
-		color: #c0745d;
+		color: white;
 	}
 
 /*********************************************************************************/
