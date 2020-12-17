@@ -248,7 +248,7 @@
 	#banner
 	{
 		position: relative;
-		background: #333 url(../images/banner.jpg) no-repeat center;
+		background: #333 url(../images/imagen20.jpg) no-repeat center;
 		background-size: cover;
 	}
 	
@@ -271,7 +271,9 @@
 	#main header h2
 	{
 		color: #bc765f;
-	}
+		font-style: oblique;
+	}	
+	
 	
 	#main a
 	{
